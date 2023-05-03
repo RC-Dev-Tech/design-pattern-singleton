@@ -37,6 +37,8 @@
 <br>
 
 ## URL結構圖
+![](https://drive.google.com/uc?id=1i-hGBoy0hhmdKEG1fbRPdgPWYjGvjSya)
+> 圖片來源：[Refactoring.Guru - Singleton](https://refactoring.guru/design-patterns/singleton)
 
 ---
 <br>
@@ -56,7 +58,8 @@
 <br>
 
 ## 參考資料
-
+* [Wiki - Singleton Pattern](https://en.wikipedia.org/wiki/Singleton_pattern) <br>
+* [Refactoring.Guru - Singleton](https://refactoring.guru/design-patterns/singleton) <br>
 
 ---
 <br>
