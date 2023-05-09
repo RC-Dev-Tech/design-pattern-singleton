@@ -2,7 +2,6 @@
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
-<br>
 
 <!--ts-->
 ## 目錄
@@ -15,13 +14,11 @@
 <!--te-->
 
 ---
-<br>
 
 ## 目的
 確保在系統中只有一個實例被創建，並提供一個全局訪問點來訪問該實例。
 
 ---
-<br>
 
 ## 使用時機
 當系統需要確保某個類別只能創建一個實例時，或當該實例需要被全局訪問時，可以使用Singleton設計模式。
@@ -34,14 +31,12 @@
   可能會導致單元測試困難，因為Singleton類別無法被繼承或被替換為其他類別，需要特別處理。<br>
 
 ---
-<br>
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1i-hGBoy0hhmdKEG1fbRPdgPWYjGvjSya)
 > 圖片來源：[Refactoring.Guru - Singleton](https://refactoring.guru/design-patterns/singleton)
 
 ---
-<br>
 
 ## 實作成員
 * Singleton
@@ -50,22 +45,18 @@
   * 使用Singleton類別的客戶端。
 
 ---
-<br>
 
 ## 實作範例:
 待補...
 
 ---
-<br>
 
 ## 參考資料
 * [Wiki - Singleton Pattern](https://en.wikipedia.org/wiki/Singleton_pattern) <br>
 * [Refactoring.Guru - Singleton](https://refactoring.guru/design-patterns/singleton) <br>
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
